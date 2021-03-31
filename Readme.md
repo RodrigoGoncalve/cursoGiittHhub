@@ -4,4 +4,8 @@ Este é um repositório teste para ensinar o Git funciona
 
 Gostou do curso
 
-alterando arquivo 
+alterando arquivo
+
+
+merge to merge
+
